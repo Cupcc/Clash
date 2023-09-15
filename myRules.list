@@ -2,8 +2,16 @@
 
 # notion 
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,customer.io
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,gist.build
 DOMAIN-KEYWORD,notion
 
 # clickup
 DOMAIN-SUFFIX,clickup.com
+DOMAIN-SUFFIX,download.todesktop.com
+DOMAIN-SUFFIX,todesktop.com
+DOMAIN-SUFFIX,canny.io
+DOMAIN-SUFFIX,sdk,split.io
+DOMAIN
 DOMAIN-KEYWORD,clickup
