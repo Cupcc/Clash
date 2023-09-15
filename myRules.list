@@ -1,0 +1,9 @@
+# diversion rules
+
+# notion 
+DOMAIN-SUFFIX,notion.so
+DOMAIN-KEYWORD,notion
+
+# clickup
+DOMAIN-SUFFIX,clickup.com
+DOMAIN-KEYWORD,clickup
